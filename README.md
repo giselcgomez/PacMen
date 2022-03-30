@@ -1,10 +1,10 @@
 # PacMen
  Creates a PacMan with the click of a button
-# H1 The PacMen Exercise
+# The PacMen Exercise
 
 These files create a PacMan with the click of a button and each of them will move in the browser window at their own pace in a random way.
 
-##*Important highlights:*##
+*Important highlights:*
 
 **index.html** - produces a PacMan on the click of a button by calling several functions on a pacmen.js and styles.css files.
 **pacmen.js** - works with the following functions
@@ -14,12 +14,12 @@ These files create a PacMan with the click of a button and each of them will mov
 
 **styles.css** - add styles to buttons
 
-##*Added items:*##
+*Added items:*
 - Stop Bottom refreshes the browser to stop PacMen movements
 - Change direction to the PacMan (the implementation of this code is incomplete)
 
 ---
-##*Where to go from here:*##
+*Where to go from here:*
 
 - Implement correctly the "direction" variable should change the PacMan direction as it collides with the limits
 - Implement an array of PacMan so each of them change direction on its own
