@@ -17,6 +17,13 @@ These files create a PacMan with the click of a button and each of them will mov
 - Stop Bottom refreshes the browser to stop PacMen movements
 - Change direction to the PacMan (the implementation of this code is incomplete)
 
+*How to Use:*
+- Download all the files into the same folder
+- Open index.html in your browser
+- To add a PacMan click on the "Add PacMan" button
+- To start animation click on the "Start Game" button
+- To stop animation click on the "Stop Game" button
+
 ---
 *Where to go from here:*
 
