@@ -36,8 +36,9 @@ These files create a PacMan with the click of a button and each of them will mov
 
 Professional Certificate in Coding - MIT xPRO/Emeritus
 
-*LICENSE:*
+**LICENSE:**
 
 This project is licensed under the MIT license.
+
 https://github.com/giselcgomez/PacMen/blob/main/LICENSE
 
