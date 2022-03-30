@@ -1,7 +1,6 @@
 # PacMen
  Creates a PacMan with the click of a button
-# The PacMen Exercise
-
+ 
 These files create a PacMan with the click of a button and each of them will move in the browser window at their own pace in a random way.
 
 *Important highlights:*
@@ -23,3 +22,6 @@ These files create a PacMan with the click of a button and each of them will mov
 
 - Implement correctly the "direction" variable should change the PacMan direction as it collides with the limits
 - Implement an array of PacMan so each of them change direction on its own
+- You can fork the files and make your own editions.
+
+*All rights are reserved to MIT xPRO *
