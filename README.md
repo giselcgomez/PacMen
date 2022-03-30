@@ -39,4 +39,5 @@ Professional Certificate in Coding - MIT xPRO/Emeritus
 *LICENSE:*
 
 This project is licensed under the MIT license.
+https://github.com/giselcgomez/PacMen/blob/main/LICENSE
 
