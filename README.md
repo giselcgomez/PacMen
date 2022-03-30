@@ -25,11 +25,18 @@ These files create a PacMan with the click of a button and each of them will mov
 - To start animation click on the "Start Game" button
 - To stop animation click on the "Stop Game" button
 
----
 *Where to go from here:*
 
 - Implement correctly the "direction" variable should change the PacMan direction as it collides with the limits
 - Implement an array of PacMan so each of them change direction on its own
 - You can fork the files and make your own editions.
 
-*All rights are reserved to MIT xPRO *
+---
+*Notes:*
+
+Professional Certificate in Coding - MIT xPRO/Emeritus
+
+*LICENSE:*
+
+This project is licensed under the MIT license.
+
