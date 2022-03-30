@@ -6,6 +6,7 @@ These files create a PacMan with the click of a button and each of them will mov
 *Important highlights:*
 
 **index.html** - produces a PacMan on the click of a button by calling several functions on a pacmen.js and styles.css files.
+
 **pacmen.js** - works with the following functions
 1. makePac() : this is the Factory function that makes a PacMan. It returns position, velocity and newimg values
 2. update() : this functions updates the PacMan image with a "setTimeout" and also uses the "checkCollisions" functions to restrict the pacMan image movement inside the document
